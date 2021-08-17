@@ -9,4 +9,5 @@ public class Main {
         } else {
         System.out.println(transfer + balance);
         }
+    }
 }
